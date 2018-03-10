@@ -1,5 +1,5 @@
 # Make-msfvenom-payload
-this is professional sscript for make msfvenom payload for all OS
+This professional script for making msfvenom payload for all OS
 
 Downloadd:
 git clone https://github.com/root4ever20/Make-msfvenom-payload.git
